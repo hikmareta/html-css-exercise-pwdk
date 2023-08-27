@@ -1,0 +1,35 @@
+.container {
+  border-width: 1px;
+  border-color: black;
+  border-style: solid;
+  border-radius: 10px;
+
+  width: 500px;
+  padding: 30px;
+  display: inline-block;
+
+  text-align: center;
+}
+
+.headline {
+  width: 300px;
+  justify-content: center;
+  align-items: center;
+}
+
+.text-box {
+  text-align: center;
+}
+
+button {
+  width: 100px;
+  height: 40px;
+  background-color: lightblue;
+
+  border-radius: 10px;  
+  
+}
+
+.mytable {
+  background-color: orange;
+}
